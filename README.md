@@ -13,3 +13,4 @@
     * Extraer la información
     * Guardar en la colección de base de datos en MongoDB
     * Generar **una** consulta en MongoDB de la información ingresada y presentar por consola
+    * Instalar librería pymongo con "pip install pymongo"
